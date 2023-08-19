@@ -1,0 +1,7 @@
+
+
+
+    GM_registerMenuCommand('<action>', () => {
+        <function's name>();
+    });
+})();
