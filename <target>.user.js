@@ -9,7 +9,7 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/antd/4.17.4/antd.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js
 // @match        <match>
-// @icon         https://www.google.com/s2/favicons?domain=amazon.com
+// @icon         <icon>
 // @grant        GM_addStyle
 // @grant        GM_registerMenuCommand
 // @grant        GM_setValue
